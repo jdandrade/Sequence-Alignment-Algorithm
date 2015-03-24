@@ -29,7 +29,7 @@ The algorithm builds up a Score Matrix representing every path (combination) pos
 
 >> CTACCCAGCATTA
 
->>  T-CC-A-C-TTA   
+>> -T-CC-A-C-TTA   
  
 ### Left to do
 
