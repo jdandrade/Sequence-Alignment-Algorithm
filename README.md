@@ -13,17 +13,22 @@ The algorithm builds up a Score Matrix representing every path (combination) pos
 
 ### Output Example
 
->> SEQUENCE ALIGNMENT ALGORITHM <<
+>> SEQUENCE ALIGNMENT ALGORITHM
+
 
 >> INPUT:
 
+
 >> CTACCCAGCATTA
+
 >> TCCACTTA
 
 
 >> OUTPUT:
 
+
 >> CTACCCAGCATTA
+
 >>  T-CC-A-C-TTA   
  
 ### Left to do
