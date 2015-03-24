@@ -17,14 +17,14 @@ The algorithm builds up a Score Matrix representing every path (combination) pos
 
 >> INPUT:
 
-CTACCCAGCATTA
-TCCACTTA
+>> CTACCCAGCATTA
+>> TCCACTTA
 
 
 >> OUTPUT:
 
-CTACCCAGCATTA
- T-CC-A-C-TTA   
+>> CTACCCAGCATTA
+>>  T-CC-A-C-TTA   
  
 ### Left to do
 
