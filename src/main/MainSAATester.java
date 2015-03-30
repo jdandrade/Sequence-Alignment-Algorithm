@@ -16,7 +16,7 @@ public class MainSAA {
 	}
 
 	private void init() {
-		File f = new File("./input_DNAorPROTEIN.txt");
+		File f = new File("./input.txt");
 		BufferedReader reader = null;
 		String sequence1 = null;
 		String sequence2 = null;
