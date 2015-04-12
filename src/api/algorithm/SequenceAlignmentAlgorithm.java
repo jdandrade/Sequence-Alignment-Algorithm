@@ -136,6 +136,8 @@ public class SequenceAlignmentAlgorithm {
 		}
 	}
 
+	// Initializing Matrix positions
+
 	private static void initBothMatrix() {
 		for (int i = 0; i != SCOREMATRIX.length; i++) {
 			for (int j = 0; j != SCOREMATRIX[i].length; j++) {
